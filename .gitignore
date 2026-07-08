@@ -1,0 +1,10 @@
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated experiment outputs
+**/runs/
+**/videos/
