@@ -1,0 +1,8 @@
+# Generated experiment outputs
+models/*.zip
+runs/
+
+# Local Python environment and cache
+.venv/
+__pycache__/
+*.pyc

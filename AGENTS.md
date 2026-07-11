@@ -10,6 +10,7 @@ The goal is not to make one polished RL library. The goal is to keep many focuse
 - Each experiment folder should be treated like a small project with its own `README.md`.
 - The root `README.md` explains the overall playground, motivation, and project index.
 - Experiment READMEs should explain the journey: what was tried, what worked, what failed, what papers or references were used, and what changed between runs.
+- When asked by the user to start a new project, do not write the whole README. Just divide it into sections and write the setup, traind and evaluate. The other sections should be written by the user himself afterwards.
 
 Example structure:
 
