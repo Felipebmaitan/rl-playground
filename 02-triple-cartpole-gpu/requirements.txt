@@ -1,0 +1,7 @@
+# PyTorch is installed separately so the wheel can match the local CUDA/driver.
+torch>=2.7
+warp-lang>=1.10,<2
+pygame>=2.6,<3
+numpy>=2,<3
+pytest>=8,<10
+
